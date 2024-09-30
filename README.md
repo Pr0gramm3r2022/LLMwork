@@ -1,2 +1,2 @@
 # LLMwork
-Building LLM models using Langchain, LLM API's, and Streamlit
+Building LLM's using Langchain, LLM API's, and Streamlit
